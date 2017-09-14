@@ -1,0 +1,18 @@
+{
+  "name": "androidbook",
+  "version": "1.0.0",
+  "description": "Resource book ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/cod3boy/android.git"
+  },
+  "author": "Sanjay Nediyara",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-plugin-adsense": "^1.0.3"
+  }
+}
